@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/GPACAL"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="16dp"
+            android:selectAllOnFocus="true"
+            android:text="GPA Calculator"
+            android:textAlignment="center"
+            android:textColor="#86091b"
+            android:textSize="30sp"
+            android:textStyle="normal|bold" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/GPACAL"
+            android:layout_centerHorizontal="true">
+
+            <!-- grade value text view  -->
+            <TextView
+                android:id="@+id/TV_gradeValue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="35dp"
+                android:padding="5dp"
+                android:text="Grade Value"
+                android:textAlignment="center"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <!--Scale edit text-->
+            <TextView
+                android:id="@+id/scale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/ET_gradeValue"
+                android:layout_marginLeft="15dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="12dp"
+                android:ems="5"
+                android:hint="Scale"
+                android:textAlignment="center"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:visibility="invisible" />
+
+            <!--letter grade edit text-->
+            <TextView
+                android:id="@+id/letter_grade"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/scale"
+                android:layout_alignBottom="@+id/scale"
+                android:layout_toEndOf="@+id/scale"
+                android:layout_toRightOf="@+id/scale"
+                android:ems="5"
+                android:hint="Letter_Grade"
+                android:textAlignment="center"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:visibility="invisible" />
+
+
+            <Button
+                android:id="@+id/button_cal"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/scale"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="30dp"
+                android:background="@color/colorPrimaryDark"
+                android:onClick="buttonOnClick"
+                android:text="Calculate"
+                android:textAlignment="center"
+                android:textColor="#fff"
+                android:textSize="20sp">
+
+
+            </Button>
+            <!-- grade value edit text -->
+            <EditText
+                android:id="@+id/ET_gradeValue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/TV_gradeValue"
+                android:layout_alignBottom="@+id/TV_gradeValue"
+                android:layout_toEndOf="@+id/scale"
+                android:layout_toRightOf="@+id/scale"
+                android:digits="0123456789."
+                android:ems="8"
+                android:hint="Grade Value"
+                android:inputType="number"
+                android:maxLines="1"
+                android:theme="@style/AppTheme.Cursor"/>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+</FrameLayout>

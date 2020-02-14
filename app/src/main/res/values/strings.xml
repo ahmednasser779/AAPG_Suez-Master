@@ -1,0 +1,1263 @@
+<resources>
+    <string name="app_name">AAPG SUEZ</string>
+    <string name="our_gratitute_to_every_single_person_who_shared_us_study_sources">Our Gratitute to every single person who shared us study sources.</string>
+    <string name="todo">TODO</string>
+    <string name="recent_articles"><u>Recent Articles</u></string>
+    <string name="category"><u>Category Name</u></string>
+    <string name="marketing"><u>Marketing</u></string>
+    <string name="soft_skills"><u>Soft Skills</u></string>
+    <string name="design"><u>Design</u></string>
+    <string name="business"><u>Business</u></string>
+    <string name="it"><u>Technology</u></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    //here
+    <string name="action_refresh">Reload</string>
+    //
+    <string name="action_settings">Settings</string>
+    <string name="default_notification_channel_id">Channel ID</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="missingMaterialText">If you don\'t find your desired material please contact us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="GO">Go</string>
+    <string name="no_events">Check your internet connection.</string>
+    <string name="no_articles">Check your internet connection.</string>
+    <string name="no_test">Check your internet connection.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+
+
+    <string-array name="faculty">
+        <item>Choose your Faculty....</item>
+        <item>Petroleum and Mining Engineering Faculty</item>
+        <item>Science Faculty</item>
+        <item>Education Faculty</item>
+        <item>Arts and Humanities Science Faculty</item>
+        <item>Computers and Information Faculty</item>
+        <item>Fish Resources and Marine Studies Faculty</item>
+        <item>Politics and Economy Faculty</item>
+        <item>Industrial Education</item>
+        <item>Medicine Faculty</item>
+    </string-array>
+
+    <string-array name="year4">
+        <item>Choose the year...</item>
+        <item>First year</item>
+        <item>Second year</item>
+        <item>Third year</item>
+        <item>Fourth year</item>
+    </string-array>
+
+    <string-array name="year3">
+        <item>Choose the year...</item>
+        <item>First year</item>
+        <item>Second year</item>
+        <item>Third year</item>
+    </string-array>
+
+    <string-array name="year32">
+        <item>Choose the year...</item>
+        <item>Second year</item>
+        <item>Third year</item>
+        <item>Fourth year</item>
+    </string-array>
+
+    <string-array name="year2">
+        <item>Choose the year...</item>
+        <item>First year</item>
+        <item>Second year</item>
+    </string-array>
+
+    <string-array name="year1">
+        <item>Choose the year...</item>
+        <item>First year</item>
+    </string-array>
+
+    <string-array name="year13">
+        <item>Choose the year...</item>
+        <item>First year</item>
+        <item>Third year</item>
+    </string-array>
+
+    <string-array name="departmentIE">
+        <item>Choose your Department .... </item>
+        <item>قسم انشاءات مدنية ومعمارية</item>
+        <item>قسم كهرباء</item>
+        <item>قسم ميكانيكا</item>
+        <item>الفرقة الاولى</item>
+    </string-array>
+
+    <!--Science-->
+    <string-array name="departmentSC">
+        <item>Choose your Department .... </item>
+        <item>Physics</item>
+        <item>Microbiology</item>
+        <item>Mathematics</item>
+        <item>Industrial Chemistry</item>
+        <item>Geology</item>
+        <item>First Level</item>
+        <item>Biochemistry</item>
+        <item>Biotechnology</item>
+    </string-array>
+
+    <string-array name="materialPH">
+        <item>اختر المادة...</item>
+        <item>نووية واشعاعية</item>
+        <item>فزياء رياضية</item>
+        <item>ذرية</item>
+        <item>ضوء فيزيائى د.آمنة</item>
+        <item>حرارة وخواص د/بهجت</item>
+        <item>جوامد 1</item>
+        <item>امتحانات فيزياء</item>
+        <item>others</item>
+    </string-array>
+
+    <string-array name="materialMedicine11">
+        <item>Choose Material...</item>
+        <item>Anatomy 1</item>
+        <item>Biochemistry 1</item>
+        <item>Community 1</item>
+        <item>Histology 1</item>
+        <item>Medical term list</item>
+        <item>Microbiology 1</item>
+        <item>Para 1</item>
+        <item>Pathology 1</item>
+        <item>Pharmacology 1</item>
+        <item>Physiology 1</item>
+    </string-array>
+
+    <string-array name="materialMedicine12">
+        <item>Choose Material...</item>
+        <item>Anatomy 2</item>
+        <item>Biochemistry 2</item>
+        <item>Community 2</item>
+        <item>Histology 2</item>
+        <item>Microbiology 2</item>
+        <item>Para 2</item>
+        <item>Pathology 2</item>
+        <item>Pharmacology 2</item>
+        <item>Physiology 2</item>
+    </string-array>
+
+
+    <string-array name="materialMI">
+        <item>اختر المادة...</item>
+        <item>وراثة حيوية وجزيئية د.سامية</item>
+        <item>ميكروبايولوجى الغذاء وامراض النبات د.صالحة</item>
+        <item>فطريات ووراثة ميكروبات د.عبدالحميد</item>
+        <item>طحالب د.الهام</item>
+        <item>ترشيح نبات وشكل ظاهرى د.الشحات</item>
+        <item>ترشيح متقدم د.الشحات</item>
+        <item>بكتريا عامة د.صالحة</item>
+        <item>امتحانات ميكروبايولوجى</item>
+        <item>others</item>
+    </string-array>
+
+    <string-array name="materialMA">
+        <item>اختر المادة...</item>
+        <item>مقدمة فى علم الحاسب د/وائل فواز</item>
+        <item>معادلات تفاضلية عادية د.هبة</item>
+        <item>توبولوجى د.محمد رمضان</item>
+        <item>تحليل مركب د.محمد صالح</item>
+        <item>تحليل رياضة 2 د/هبة</item>
+        <item>امتحانات قسم رياضة</item>
+        <item>احصاء حيوى د/محمد الشحات</item>
+        <item>others</item>
+    </string-array>
+
+    <string-array name="materialIC">
+        <item>اختر المادة...</item>
+        <item>امتحانات كيمياء صناعية</item>
+    </string-array>
+
+    <string-array name="materialPG">
+        <item>اختر المادة...</item>
+        <item>نارية</item>
+        <item>مقدمة فى علم الحاسب د/وائل</item>
+        <item>مقدمة فى علم الحيوان د/رانيا+د/هويدا</item>
+        <item>حرارة وخواص1 د/بهجت</item>
+        <item>جيولوجيا عامة د/اسماعيل سيد</item>
+        <item>اسس كيمياء فيزيائية د/شيماء خلف</item>
+        <item>Structural Geology د.فارس</item>
+        <item>Remote sensing د.فارس</item>
+        <item>فرقة تالتة ترم اول</item>
+        <item>عينات صخور ومعادن</item>
+        <item>خرائط جيولوجية</item>
+        <item>امتحانات جيولوجيا</item>
+        <item>امتحان marine</item>
+        <item>Survey</item>
+        <item>Sedimentology د.حسن</item>
+        <item>Microfossils د.حسن</item>
+        <item>Metamorphic</item>
+        <item>Introduction of Structural Geology د.حسن</item>
+        <item>Hydrogeology</item>
+        <item>Hydrogeochemistry</item>
+        <item>Geophysics د.سعادة</item>
+        <item>Geophysics Methods</item>
+        <item>Electrics د.سعادة</item>
+        <item>Archeological Dating methods 2</item>
+        <item>Absolute Dating</item>
+        <item>others</item>
+    </string-array>
+
+    <string-array name="material_science_first">
+        <item>اختر المادة...</item>
+        <item>General Geology</item>
+        <item>Marine Geology</item>
+        <item>Mathematical Analysis</item>
+        <item>Physical Chemistry</item>
+        <item>Zoology</item>
+        <item>حقوق انسان</item>
+        <item>others</item>
+    </string-array>
+
+    <string-array name="materialBC">
+        <item>اختر المادة...</item>
+        <item>ملخص كيمياء حيوى د.وليد</item>
+        <item>امتحانات كيمياء حيوى</item>
+        <item>others</item>
+    </string-array>
+
+    <string-array name="materialBI">
+        <item>اختر المادة...</item>
+        <item>وراثة خلوية د.احمد عيسى</item>
+        <item>كيمياء حيوى (كربوهيدرات) د.وليد سراج</item>
+        <item>علم الدم د.عايدة</item>
+        <item>امتحانات Biotechnology</item>
+        <item>others</item>
+    </string-array>
+
+    <!--Politics and Economy-->
+
+
+    <string-array name="semesterpe1">
+        <item>Choose the semester...</item>
+        <item>first semester Y1</item>
+        <item>second semester Y1</item>
+    </string-array>
+
+    <string-array name="semesterpe2">
+        <item>Choose the semester...</item>
+        <item>first semester Y2</item>
+    </string-array>
+
+    <string-array name="materialpe11">
+        <item>اختر المادة...</item>
+        <item>مبادئ القانون 1</item>
+        <item>مبادئ العلوم السياسة</item>
+        <item>مبادئ السلوك التنظيمى</item>
+        <item>اقتصاد جزئى</item>
+        <item>امتحانات 1</item>
+    </string-array>
+
+    <string-array name="materialpe12">
+        <item>اختر المادة...</item>
+        <item>مبادئ القانون 2</item>
+        <item>مبادئ احصاء</item>
+        <item>حقوق انسان</item>
+        <item>الادارة العامة</item>
+        <item>اقتصاد كلى</item>
+        <item>اقتصاد جزئى2</item>
+        <item>international organization</item>
+        <item>امتحانات 2</item>
+    </string-array>
+
+    <string-array name="materialpe21">
+        <item>اختر المادة...</item>
+        <item>امتحان اقتصاد</item>
+    </string-array>
+
+
+    <!--Fish resources and marine studies-->
+
+    <string-array name="material_msayd">
+        <item>Choose the material...</item>
+        <item>حرف صيد سلبية</item>
+        <item>سلامة بحرية</item>
+        <item>فنون بحرية</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="material_slama">
+        <item>Choose the material...</item>
+        <item>امتحانات</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="yearRF">
+        <item>Choose the year...</item>
+        <item>مميز</item>
+        <item>اساسى</item>
+    </string-array>
+
+    <string-array name="yearRF1">
+        <item>Choose the year...</item>
+        <item>First year F.R</item>
+    </string-array>
+
+    <string-array name="yearRF2">
+        <item>Choose the year...</item>
+        <item>Second year F.R</item>
+    </string-array>
+
+    <string-array name="semesterfr1">
+        <item>Choose the semester...</item>
+        <item>first semester - second year</item>
+    </string-array>
+
+    <string-array name="semesterfr11">
+        <item>Choose the semester...</item>
+        <item>first semester - first year</item>
+    </string-array>
+
+    <string-array name="materialfr112">
+        <item>اختر المادة...</item>
+        <item>MidTerm</item>
+        <item>Exams1</item>
+        <item>Exams2</item>
+    </string-array>
+
+    <string-array name="materialfr11">
+        <item>اختر المادة...</item>
+        <item>Exams</item>
+        <item>فلك وارصاد جوية</item>
+        <item>بحيـرات</item>
+    </string-array>
+
+    <string-array name="departmentfr">
+        <item>Choose your Department ....</item>
+        <item>متطلبات</item>
+        <item>هندسة بحرية</item>
+        <item>قسم ملاحة</item>
+        <item>قسم مصايد</item>
+        <item>سلامة بحرية</item>
+        <item>قسم تصنيع</item>
+        <item>قسم تنمية بشرية</item>
+        <item>قسم الاقتصاد السمكى</item>
+        <item>قسم استزراع</item>
+        <item>الفرقة الاولى مميز</item>
+        <item>الفرقة الاولى اساسى</item>
+    </string-array>
+
+    <string-array name="materialfr">
+        <item>اختر المادة...</item>
+        <item>Caga culture</item>
+        <item>Caga culture-fourth year</item>
+        <item>تسويق</item>
+    </string-array>
+
+    <string-array name="materialfr1">
+        <item>اختر المادة...</item>
+        <item>final oceanography</item>
+        <item>فلك وأرصاد جوية</item>
+        <item>بحيرات</item>
+    </string-array>
+
+
+    <!--Computers and information-->
+    <string-array name="yearcs">
+        <item>Choose the year...</item>
+        <item>first year C.S</item>
+        <item>second year C.S</item>
+    </string-array>
+
+    <string-array name="semestercs1">
+        <item>Choose the semester...</item>
+        <item>first semester Y1-C.S</item>
+        <item>second semester Y1-C.S</item>
+    </string-array>
+
+    <string-array name="semestercs2">
+        <item>Choose the semester...</item>
+        <item>first semester Y2-C.S</item>
+    </string-array>
+
+    <string-array name="materialcs11">
+        <item>Choose the material...</item>
+        <item>Physics1 Dr.Yasser Amoun</item>
+        <item>Math1 Dr.Mohamed Ramadan</item>
+        <item>General English Dr.Dosoky</item>
+        <item>Ch9 Physics</item>
+        <item>امتحانات اولى</item>
+    </string-array>
+
+    <string-array name="materialcs12">
+        <item>Choose the material...</item>
+        <item>Programming Dr.Mohammed Ali</item>
+        <item>Mathematics2 Dr.Taha El-Garib </item>
+        <item>English writing Dr.Dosoky</item>
+        <item>Discrete structure Dr.Hussein Sharaf</item>
+    </string-array>
+
+    <string-array name="materialcs21">
+        <item>Choose the material...</item>
+        <!--<item>Cables</item>-->
+        <item>Data Communication</item>
+        <!--<item>IP adress</item>-->
+        <item>Is امتحانات</item>
+        <item>Laplace transformation</item>
+        <item>maths 3 fouri series</item>
+        <item>الأعداد المركبة maths 3</item>
+        <item>System analysis</item>
+        <item>امتحانات دكتور هيثم</item>
+        <item>Business adminstartion</item>
+        <!--<item>definition of Java</item>-->
+        <item>امتحانات تانية حاسبات</item>
+    </string-array>
+
+
+    <!--Education-->
+    <string-array name="Education_departments">
+        <item>Choose your Department ....</item>
+        <item>أساسى علوم</item>
+        <!--<item>امتحانات تالته</item>-->
+        <item>بيولوجى</item>
+        <item>تربوى</item>
+        <item>تربية رياضية</item>
+        <item>تربية طفولة</item>
+        <item>تربية فرنسى</item>
+        <item>تربية فنية</item>
+        <item>كيمياء</item>
+        <item>لغة إنجليزية</item>
+        <item>لغة عربية</item>
+    </string-array>
+
+    <string-array name="years_اساسى">
+        <item>Choose the year...</item>
+        <item>اولى اساسى</item>
+        <item>تانية اساسى</item>
+        <item>تالتة اساسى</item>
+        <item>رابعة اساسى</item>
+    </string-array>
+
+    <string-array name="semester_اساسى_1">
+        <item>Choose the semester...</item>
+        <item>ترم اول اساسى 1</item>
+        <item>ترم تانى اساسى 1</item>
+    </string-array>
+
+    <string-array name="materials_11اساسى">
+        <item>Choose the material...</item>
+        <item>امتحانات اساسى11</item>
+        <item>عينات سيكشن تقسيم مملكة نباتية</item>
+        <item>كيمياء عضوية- د/رضا فتحى</item>
+        <item>كيمياء غير عضوية- د/أحمد الشحات </item>
+    </string-array>
+
+    <string-array name="materials_12اساسى">
+        <item>Choose the material...</item>
+        <item>امتحانات اساسى12</item>
+    </string-array>
+
+    <string-array name="semester_اساسى_2">
+        <item>Choose the semester...</item>
+        <item>ترم اول اساسى 2</item>
+        <item>ترم تانى اساسى 2</item>
+    </string-array>
+
+    <string-array name="materials_21اساسى">
+        <item>Choose the material...</item>
+        <item>امتحانات اساسى21</item>
+        <item>كيمياء عضوية اليفاتية- د/رضا عبدالعال</item>
+        <item>كيمياء غير عضوية-فلزات ولافلزات- د/رشا</item>
+        <item>نبات عام- د/الشحات</item>
+    </string-array>
+
+    <string-array name="materials_22اساسى">
+        <item>Choose the material...</item>
+        <item>امتحانات اساسى22</item>
+    </string-array>
+
+    <string-array name="semester_اساسى_3">
+        <item>Choose the semester...</item>
+        <item>ترم اول اساسى 3</item>
+        <item>ترم تانى اساسى 3</item>
+    </string-array>
+
+    <string-array name="materials_31اساسى">
+        <item>Choose the material...</item>
+        <item>امتحانات اساسى31</item>
+        <item>ملخص فيزياء بيئية</item>
+    </string-array>
+
+    <string-array name="materials_32اساسى">
+        <item>Choose the material...</item>
+        <item>امتحانات اساسى32</item>
+    </string-array>
+
+    <string-array name="semester_اساسى_4">
+        <item>Choose the semester...</item>
+        <item>ترم اول اساسى 4</item>
+    </string-array>
+
+    <string-array name="materials_41اساسى">
+        <item>Choose the material...</item>
+        <item>رياضة عام</item>
+    </string-array>
+
+    <string-array name="materials_42اساسى">
+        <item>Choose the material...</item>
+    </string-array>
+    <string-array name="materials_3_امتحانات">
+        <item>Choose the material...</item>
+        <item>امتحانات اساسى لغة عربية+ لغة انجليزية</item>
+    </string-array>
+
+    <string-array name="years_بيولوجى">
+        <item>Choose the year...</item>
+        <item>اولى بيولوجى</item>
+        <item>تالتة بيولوجى</item>
+    </string-array>
+
+    <string-array name="semester_بيولوجى_1">
+        <item>Choose the semester...</item>
+        <item>ترم اول بيولوجى 1</item>
+    </string-array>
+
+    <string-array name="materials_11بيولوجى">
+        <item>Choose the material...</item>
+        <item>تقسيم مملكة نباتية- د/أكرم</item>
+        <item>رياضة</item>
+        <item>عينات تقسيم مملكة نباتية- مشترك</item>
+        <item>كيمياء غير عضوية- د/أحمد الشحات.</item>
+    </string-array>
+
+    <string-array name="semester_بيولوجى_3">
+        <item>Choose the semester...</item>
+        <item>ترم اول بيولوجى 3</item>
+    </string-array>
+
+    <string-array name="materials_31بيولوجى">
+        <item>Choose the material...</item>
+        <item>امتحانات بيولوجى31</item>
+    </string-array>
+
+    <string-array name="years_تربوى">
+        <item>Choose the year...</item>
+        <item>اولى تربوى</item>
+        <item>تانية تربوى</item>
+        <item>تالتة تربوى</item>
+    </string-array>
+
+    <string-array name="materialsتربوىى_1">
+        <item>Choose the material...</item>
+        <item>امتحانات تربوىى1</item>
+        <item>حاسب آلى - د/وائل</item>
+        <item>حقوق إنسان</item>
+        <item>مبادئ تربية- د/محمد درويش</item>
+    </string-array>
+
+    <string-array name="materialsتربوىى_2">
+        <item>Choose the material...</item>
+        <item>المدرسة والمجتمع- د/نبيل عبدالخالق</item>
+        <item>المدرسة والمجتمع- د/إيمان عبدالراضى</item>
+        <item>امتحانات تربوىى2</item>
+        <item>حاسب آلى - د/سماح</item>
+        <item>حقوق إنسان</item>
+        <item>سيكولوجية التعلم- د/هشام</item>
+    </string-array>
+
+    <string-array name="semester_تربوى_3">
+        <item>Choose the semester...</item>
+        <item>ترم اول تربوى 3</item>
+        <item>ترم تانى تربوى 3</item>
+    </string-array>
+
+    <string-array name="materials3تربوى_1">
+        <item>Choose the material...</item>
+        <item>امتحانات تربوىى31</item>
+        <item>سيكولوجية ذوى احتياجات خاصة- د/سحر منصور</item>
+        <item>طرق تدريس ذوى احتياجات خاصة- د/نجوى</item>
+    </string-array>
+
+    <string-array name="materials3تربوى_2">
+        <item>Choose the material...</item>
+        <item>سيكولوجية التعلم</item>
+        <item>محو امية -كل الشعب</item>
+    </string-array>
+
+    <string-array name="years_طفولة">
+        <item>Choose the year...</item>
+        <item>اولى طفولة</item>
+        <item>تانية طفولة</item>
+        <item>تالتة طفولة</item>
+        <item>رابعة طفولة</item>
+    </string-array>
+
+    <string-array name="semester_طفولة_1">
+        <item>Choose the semester...</item>
+        <item>ترم تانى طفولة 1</item>
+    </string-array>
+
+    <string-array name="materials_12طفولة">
+        <item>Choose the material...</item>
+        <item>امتحانات طفولة12</item>
+        <item>حقوق إنسان</item>
+    </string-array>
+
+    <string-array name="semester_طفولة_2">
+        <item>Choose the semester...</item>
+        <item>ترم اول طفولة 2</item>
+    </string-array>
+
+
+    <string-array name="materials_21طفولة">
+        <item>Choose the material...</item>
+        <item>امتحانات طفولة21</item>
+    </string-array>
+
+    <string-array name="semester_طفولة_3">
+        <item>Choose the semester...</item>
+        <item>ترم اول طفولة 3</item>
+        <item>ترم تانى طفولة 3</item>
+    </string-array>
+
+
+    <string-array name="materials_31طفولة">
+        <item>Choose the material...</item>
+        <item>الثقافة العلمية للأطفال</item>
+        <item>امتحانات طفولة31</item>
+        <item>تربية عسكرية</item>
+        <item>تنشئة اجتماعية</item>
+    </string-array>
+
+    <string-array name="materials_32طفولة">
+        <item>Choose the material...</item>
+        <item>علوم متكاملة- د/إيمان شرف</item>
+        <item>امتحانات طفولة32</item>
+    </string-array>
+
+    <string-array name="materials_4طفولة">
+        <item>Choose the material...</item>
+        <item>امتحانات ترم اول</item>
+    </string-array>
+
+    <string-array name="years_فرنسى">
+        <item>Choose the year...</item>
+        <item>اولى فرنسى</item>
+        <item>تانية فرنسى</item>
+        <item>تالتة فرنسى</item>
+    </string-array>
+
+    <string-array name="semester_فرنسى_1">
+        <item>Choose the semester...</item>
+        <item>ترم اول فرنسى 1</item>
+        <item>ترم تانى فرنسى 1</item>
+    </string-array>
+
+    <string-array name="materials_1فرنسى1">
+        <item>Choose the material...</item>
+        <item>نصوص - د/رحاب سعد</item>
+    </string-array>
+
+    <string-array name="materials_1فرنسى2">
+        <item>Choose the material...</item>
+        <item>نصوص</item>
+    </string-array>
+
+    <string-array name="materials_2فرنسى">
+        <item>Choose the material...</item>
+        <item>نصوص - د/رحاب سعد.</item>
+    </string-array>
+
+    <string-array name="materials_فرنسى3">
+        <item>Choose the material...</item>
+        <item>امتحانات فرنسى3</item>
+    </string-array>
+
+    <string-array name="years_كيمياء">
+        <item>Choose the year...</item>
+        <item>اولى كيمياء</item>
+        <item>تانية كيمياء</item>
+        <item>رابعه كيمياء</item>
+    </string-array>
+
+    <string-array name="semester_كيمياء_1">
+        <item>Choose the semester...</item>
+        <item>ترم اول كيمياء 1</item>
+        <item>ترم تانى كيمياء 1</item>
+    </string-array>
+
+    <string-array name="materials_11كيمياء">
+        <item>Choose the material...</item>
+        <item>عضويةوحيوية - د/رضا فتحى</item>
+        <item>عضويةوحركية - د/وليد سراج</item>
+        <item>كيمياء غير عضوية - د/احمد الشحات.</item>
+        <item>عينات تقسيم مملكة نباتية- مشترك.</item>
+        <item>كيمياء فيزيائية- د/شيماء خلف.</item>
+        <item>نبات عام - د/أكرم.</item>
+    </string-array>
+
+    <string-array name="materials_12كيمياء">
+        <item>Choose the material...</item>
+        <item>امتحانات تربية كيمياء</item>
+    </string-array>
+
+    <string-array name="materials_2كيمياء">
+        <item>Choose the material...</item>
+        <item>كيمياء فيزيائية- د/حسن.</item>
+    </string-array>
+
+    <string-array name="materials_4كيمياء">
+        <item>Choose the material...</item>
+        <item>كيمياء غير عضوية متجانسة</item>
+    </string-array>
+
+    <string-array name="years_انجليزى">
+        <item>Choose the year...</item>
+        <item>تانية انجليزى</item>
+    </string-array>
+
+    <string-array name="semester_انجليزى_2">
+        <item>Choose the semester...</item>
+        <item>ترم اول انجليزى 2</item>
+    </string-array>
+
+    <string-array name="materials_21لغةانجليزية">
+        <item>Choose the material...</item>
+        <item>شعر</item>
+        <item>علم صوتيات- د/شاكر رزق</item>
+    </string-array>
+
+    <string-array name="years_عربى">
+        <item>Choose the year...</item>
+        <item>اولى عربى</item>
+        <item>تالتة عربى</item>
+    </string-array>
+
+    <string-array name="semester_عربى_1">
+        <item>Choose the semester...</item>
+        <item>ترم اول عربى 1</item>
+    </string-array>
+
+    <string-array name="materials_11لغةعربية">
+        <item>Choose the material...</item>
+        <item>امتحانات عربى11</item>
+        <item>نحو وصرف</item>
+    </string-array>
+
+    <string-array name="semester_عربى_3">
+        <item>Choose the semester...</item>
+        <item>ترم اول عربى 3</item>
+    </string-array>
+
+    <string-array name="materials_31لغةعربية">
+        <item>Choose the material...</item>
+        <item>امتحانات عربى31</item>
+    </string-array>
+
+
+    <!--Petroleum and Mining Engineering Faculty-->
+    <string-array name="pme_department">
+        <item>Choose your Department ....</item>
+        <item>Preparatory</item>
+        <item>Petroleum Engineering Dept.</item>
+        <item>Refining Engineering Dept.</item>
+        <item>Geology Dept.</item>
+        <item>General</item>
+        <item>Petroleum Production and Exploration Program</item>
+    </string-array>
+
+    <string-array name="pme_petroleum_year">
+        <item>Choose the year...</item>
+        <item>first year Petroleum</item>
+        <item>second year Petroleum</item>
+        <item>third year Petroleum</item>
+        <item>fourth year Petroleum</item>
+    </string-array>
+
+    <string-array name="pme_refining_year">
+        <item>Choose the year...</item>
+        <item>first year Refining</item>
+        <item>second year Refining</item>
+        <item>third year Refining</item>
+        <item>fourth year Refining</item>
+    </string-array>
+
+    <string-array name="pme_preparatory_semester">
+        <item>Choose the semester...</item>
+        <item>first semester preparatory</item>
+        <item>second semester preparatory</item>
+    </string-array>
+
+    <string-array name="pme_petroleum1_semester">
+        <item>Choose the semester...</item>
+        <item>first semester petroleum1</item>
+        <item>second semester petroleum1</item>
+    </string-array>
+
+    <string-array name="pme_petroleum2_semester">
+        <item>Choose the semester...</item>
+        <item>first semester petroleum2</item>
+        <item>second semester petroleum2</item>
+    </string-array>
+
+    <string-array name="pme_petroleum3_semester">
+        <item>Choose the semester...</item>
+        <item>first semester petroleum3</item>
+        <item>second semester petroleum3</item>
+    </string-array>
+
+    <string-array name="pme_petroleum4_semester">
+        <item>Choose the semester...</item>
+        <item>first semester petroleum4</item>
+        <item>second semester petroleum4</item>
+    </string-array>
+
+    <string-array name="pme_refining1_semester">
+        <item>Choose the semester...</item>
+        <item>first semester refining1</item>
+        <item>second semester refining1</item>
+    </string-array>
+
+    <string-array name="pme_refining2_semester">
+        <item>Choose the semester...</item>
+        <item>first semester refining2</item>
+        <item>second semester refining2</item>
+    </string-array>
+
+    <string-array name="pme_refining3_semester">
+        <item>Choose the semester...</item>
+        <item>first semester refining3</item>
+        <item>second semester refining3</item>
+    </string-array>
+
+    <string-array name="pme_refining4_semester">
+        <item>Choose the semester...</item>
+        <item>first semester refining4</item>
+        <item>second semester refining4</item>
+    </string-array>
+
+    <string-array name="pme_preparatory_firstSemester_material">
+        <item>Choose the material...</item>
+        <item>Math</item>
+        <item>استاتيكا</item>
+        <item>التاريخ الهندسي</item>
+        <item>رسم هندسي</item>
+        <item>فيزياء1</item>
+        <item>كيمياء</item>
+    </string-array>
+
+    <string-array name="pme_preparatory_secondSemester_material">
+        <item>Choose the material...</item>
+        <item>تكامل</item>
+        <item>لغة</item>
+        <item>انتاج</item>
+        <item>رسم و إسقاط</item>
+        <item>سليدات الديناميكا</item>
+        <item>سليدات كهربية و مغناطيسية</item>
+    </string-array>
+
+    <string-array name="pme_petroleum1_firstSemester_material">
+        <item>Choose the material...</item>
+        <item>Plane and Topographic Surveying</item>
+    </string-array>
+
+    <string-array name="pme_general1_firstSemester_material">
+        <item>Choose the material...</item>
+        <item>Maths 3</item>
+        <item>Matlab</item>
+        <item>Physics</item>
+        <item>Material</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="pme_petroleum1_secondSemester_material">
+        <item>Choose the material...</item>
+        <item>Geology</item>
+        <item>Introduction to Petroleum Engineering</item>
+        <item>Organic Chemstry</item>
+        <item>Physical Chemstry</item>
+        <item>Sustainability and Environmental Education</item>
+    </string-array>
+
+    <string-array name="pme_general1_secondSemester_material">
+        <item>Choose the material...</item>
+        <item>Maths</item>
+        <item>Mechanical Drawing</item>
+
+    </string-array>
+
+    <string-array name="pme_petroleum2_firstSemester_material">
+        <item>Choose the material...</item>
+        <item>Drilling 1</item>
+        <item>Material Science</item>
+        <item>Structural Geology</item>
+    </string-array>
+
+    <string-array name="pme_general2_firstSemester_material">
+        <item>Choose the material...</item>
+        <item>Fluid Mechanics</item>
+        <item>Maths</item>
+        <item>English2</item>
+    </string-array>
+
+    <string-array name="pme_petroleum2_secondSemester_material">
+        <item>Choose the material...</item>
+        <item>Automatic Control</item>
+        <item>Reservoir Fluids</item>
+        <item>Civil Engineering</item>
+    </string-array>
+
+    <string-array name="pme_general2_secondSemester_material">
+        <item>Choose the material...</item>
+        <item>Computer Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Thermodynamics</item>
+    </string-array>
+
+    <string-array name="pme_petroleum3_firstSemester_material">
+        <item>Choose the material...</item>
+        <item>Computer Applications</item>
+        <item>Geophisics</item>
+        <item>Hydraulics</item>
+        <item>Production Engineering 1</item>
+        <item>Production Equipment</item>
+        <item>Rock Properties</item>
+        <item>Exams</item>
+    </string-array>
+
+    <string-array name="pme_petroleum3_secondSemester_material">
+        <item>Choose the material...</item>
+        <item>Drilling 2</item>
+        <item>Drilling Equipment</item>
+        <item>Exploration Engineering</item>
+        <item>Language.</item>
+        <item>Safety</item>
+        <item>Well Completion</item>
+        <item>Sections</item>
+    </string-array>
+
+    <string-array name="pme_petroleum4_firstSemester_material">
+        <item>Choose the material...</item>
+        <item>Petroleum Economics</item>
+        <item>Petroleum Geology</item>
+        <item>Production Engineering 2</item>
+        <item>Transportation and Storage of Crude Oil</item>
+        <item>Well Test</item>
+    </string-array>
+
+    <string-array name="pme_petroleum4_secondSemester_material">
+        <item>Choose the material...</item>
+        <item>Applied Reservoir Engineering</item>
+        <item>Enhanced Oil Recovery (EOR)</item>
+        <item>Environmental Control in Oil and Gas Industry</item>
+        <item>Natural Gas Engineering</item>
+        <item>Well Logging</item>
+    </string-array>
+
+    <string-array name="pme_refining1_firstSemester_material">
+        <item>Choose the material...</item>
+        <item>مدخل تكرير</item>
+    </string-array>
+
+    <string-array name="pme_refining1_secondSemester_material">
+        <item>Choose the material...</item>
+        <item>Physical Chemsrty</item>
+    </string-array>
+
+    <string-array name="pme_refining2_firstSemester_material">
+        <item>Choose the material...</item>
+        <item>Petroleum Evaluation</item>
+        <item>Unit Operations 1</item>
+        <item>Civil Engineering</item>
+    </string-array>
+
+    <string-array name="pme_refining2_secondSemester_material">
+        <item>Choose the material...</item>
+        <item>Corrosion</item>
+        <item>تفاعلات</item>
+    </string-array>
+
+    <string-array name="pme_refining3_firstSemester_material">
+        <item>Choose the material...</item>
+        <item>Refining Engineering</item>
+        <item>Safety.</item>
+        <item>تفاعلات مشتركة</item>
+        <item>اختبار مواد</item>
+        <item>Transportation and Storage</item>
+        <item>Units Operations 2</item>
+    </string-array>
+
+    <string-array name="pme_refining3_secondSemester_material">
+        <item>Choose the material...</item>
+        <item>English.</item>
+        <item>Gas Engineering 1</item>
+        <item>Heat Transfer</item>
+        <item>Petrochemical Industry 1</item>
+        <item>Pollution Control</item>
+    </string-array>
+
+    <string-array name="pme_refining4_firstSemester_material">
+        <item>Choose the material...</item>
+        <item>Design</item>
+        <item>Natural Gas</item>
+        <item>Petrochemical Industry 2</item>
+        <item>Process Control</item>
+        <item>معالجة المواد البترولية</item>
+    </string-array>
+
+    <string-array name="pme_refining4_secondSemester_material">
+        <item>Choose the material...</item>
+        <item>Refining Engineering 2</item>
+        <item>اقتصاديات</item>
+        <item>تصميم أفران</item>
+        <item>تصميم أمثل</item>
+        <item>تطبيقات حاسب</item>
+    </string-array>
+
+    <string-array name="pme_Geology1_firstSemester_material">
+        <item>Choose the material...</item>
+        <item>General Geology</item>
+    </string-array>
+    <string-array name="pme_Geology1_secondSemester_material">
+        <item>Choose the material...</item>
+        <item>Mineralogy Survey</item>
+    </string-array>
+    <string-array name="pme_Geology2_firstSemester_material">
+        <item>Choose the material...</item>
+        <item>Geodesy Survey</item>
+        <item>Geophisics</item>
+        <item>Sedimentology</item>
+        <item>Solid Mechanics</item>
+    </string-array>
+    <string-array name="pme_Geology2_secondSemester_material">
+        <item>Choose the material...</item>
+        <item>Civil Engineering</item>
+        <item>Structural Geology</item>
+        <item>Structural Theory</item>
+    </string-array>
+
+    <string-array name="pme_Geology3_firstSemester_material">
+        <item>Choose the material...</item>
+        <item>Geophysics</item>
+        <item>Hydrology</item>
+        <item>Petroleum Geology</item>
+        <item>Petrophysics</item>
+        <item>Enviroment</item>
+        <item>Ground Water</item>
+    </string-array>
+
+    <string-array name="pme_program_material">
+        <item>Choose the material...</item>
+        <item>Crude Oil Evaluation</item>
+        <item>Horizontal Drilling</item>
+        <item>Strength</item>
+        <item>Rock Mechanics</item>
+        <item>Reservoir Rock</item>
+        <item>Production2</item>
+        <item>Physical Chemistry</item>
+        <item>Petroleum Geology</item>
+        <item>Petroleum Economics</item>
+        <item>NG Processing</item>
+        <item>Matlab</item>
+        <item>Math</item>
+        <item>Jop morals</item>
+        <item>Gas Treatment</item>
+        <item>Fluid Reservoir</item>
+        <item>Fluid Mechanics</item>
+        <item>EOR</item>
+        <item>English 2</item>
+        <item>English</item>
+        <item>Drilling</item>
+        <item>Corrosion</item>
+        <item>Computer Applications</item>
+        <item>circuits</item>
+        <item>Automatic control</item>
+        <item>Analytical Chemistry</item>
+    </string-array>
+
+
+    <!--Arts and Humanities science Faculty-->
+    <string-array name="department">
+        <item>Choose your Department ....</item>
+        <item>English Department</item>
+        <item>Arabic Department</item>
+        <item>French Department</item>
+        <item>History Department</item>
+        <item>Geography Department</item>
+        <item>Physiology Department</item>
+        <item>Sociology Department</item>
+    </string-array>
+
+    <string-array name="E_dep_year">
+        <item>Choose the year...</item>
+        <item>First year</item>
+        <item>Second year</item>
+        <item>Third year</item>
+        <item>امتحانات قسم انجليزى</item>
+    </string-array>
+
+    <string-array name="F_dep_year">
+        <item>Choose the year...</item>
+        <item>first year</item>
+        <item>second year</item>
+        <item>third year</item>
+    </string-array>
+
+    <string-array name="G_dep_year">
+        <item>Choose the year...</item>
+        <item>first year</item>
+    </string-array>
+
+    <string-array name="PH_and_S_dep_year">
+        <item>Choose the year...</item>
+        <item>first year</item>
+        <item>second year</item>
+    </string-array>
+
+    <string-array name="semester2">
+        <item>Choose the semester...</item>
+        <item>First semester</item>
+        <item>Second semester</item>
+    </string-array>
+
+    <string-array name="semester">
+        <item>Choose the semester...</item>
+        <item>First semester</item>
+    </string-array>
+
+    <string-array name="semester3">
+        <item>Choose the semester...</item>
+        <item>امتحانات ترم اول</item>
+    </string-array>
+
+    <string-array name="E_Y1_S1_material">
+        <item>choose the material...</item>
+        <item>ادب انجليزى</item>
+        <item>امتحانات</item>
+        <item>جغرافيا غرب اوربا</item>
+        <item>phonotics-صوتيات1</item>
+        <item>لغه فرنسيه</item>
+    </string-array>
+
+    <string-array name="E_Y1_S2_material">
+        <item>choose the material...</item>
+        <item>تاريخ غرب اوربا</item>
+        <item>حضاره-civilization</item>
+        <item>لغه عربيه</item>
+        <item>من الادب الانجليزى</item>
+    </string-array>
+
+    <string-array name="E_Y2_S1_material">
+        <item>choose the material...</item>
+        <item>drama(shakespearean drama)</item>
+        <item>poetry</item>
+        <item>امتحانات انجليزى ترم اول</item>
+        <item>phonotics-صوتيات2</item>
+    </string-array>
+
+    <string-array name="E_Y2_S2_material">
+        <item>choose the material...</item>
+        <item>essay writing</item>
+        <item>novel</item>
+        <item>حضاره</item>
+    </string-array>
+
+    <string-array name="E_Y3_S1_material">
+        <item>choose the material...</item>
+        <item>د/شاكر رزق</item>
+        <item>civilization - د/مازن</item>
+        <item>Drama - د/امانى</item>
+        <item>Grammer</item>
+        <item>Poetry - د/وفاء</item>
+        <item>ترجمة - د/مازن</item>
+        <item>نقد - د/محمد عبد الوهاب</item>
+    </string-array>
+
+    <string-array name="E_Y3_S2_material">
+        <item>choose the material...</item>
+        <item>لاتينى د/احمد فهمى</item>
+        <item>poetry - د/وفاء</item>
+        <item>Arabic د/نيازى</item>
+        <item>Novel دامانى</item>
+    </string-array>
+
+    <string-array name="F_Y1_S1_material">
+        <item>choose the material...</item>
+        <item>grammer</item>
+        <item>امتحانات اولى فرنساوى ترم اول</item>
+        <item>تعبير كتابى</item>
+        <item>صوتيات</item>
+    </string-array>
+
+    <string-array name="F_Y1_S2_material">
+        <item>choose the material...</item>
+        <item>امتحانات اولى فرنساوى ترم تانى</item>
+        <item>حضاره د/دعاء</item>
+        <item>حضاره د/منى</item>
+        <item>عربى</item>
+        <item>قراءه د/ابراهيم</item>
+        <item>محادثه د/ عبده</item>
+        <item>نصوص د/ منى</item>
+    </string-array>
+
+    <string-array name="F_Y2_S1_material">
+        <item>choose the material...</item>
+        <item>grammer2</item>
+        <item>امتحانات1</item>
+        <item>امتحانات2</item>
+        <item>امتحانات3</item>
+    </string-array>
+
+    <string-array name="F_Y2_S2_material">
+        <item>choose the material...</item>
+        <item>امتحانات تانية فرنساوى ترم تانى</item>
+    </string-array>
+
+    <string-array name="F_Y3_S1_material">
+        <item>choose the material...</item>
+        <item>قواعد3 فرنسى</item>
+    </string-array>
+
+    <string-array name="G_Y1_S1_material">
+        <item>choose the material...</item>
+        <item>امتحانات فرقة اولى جغرافيا</item>
+    </string-array>
+
+    <string-array name="PH_Y1_S1_material">
+        <item>choose the material...</item>
+        <item>اخلاق - د/محروس</item>
+    </string-array>
+
+    <string-array name="PH_Y2_S1_material">
+        <item>choose the material...</item>
+        <item>تفكير علمى-د/منتصر</item>
+        <item>رياضه</item>
+        <item>سياسه د/منتصر</item>
+        <item>علم الكلام د/منتصر</item>
+    </string-array>
+
+    <string-array name="S_Y1_S1_material">
+        <item>choose the material...</item>
+        <item>الاسس النظريه</item>
+        <item>امتحانات علم اجتماع</item>
+        <item>تاريخ الفكر الاجتماعى</item>
+        <item>جغرافيا عامه</item>
+        <item>فلسفه عامه</item>
+        <item>لغه عربيه</item>
+        <item>مدخل فى علم الاجتماع</item>
+    </string-array>
+
+    <string-array name="S_Y1_S2_material">
+        <item>choose the material...</item>
+        <item>الاحصاء</item>
+        <item>انثروبولوجيا</item>
+        <item>بناء المجتمع ونظمه</item>
+        <item>علم السكان</item>
+        <item>علم النفس</item>
+        <item>لغه انجليزيه</item>
+    </string-array>
+
+    <string-array name="S_Y2_S1_material">
+        <item>choose the material...</item>
+        <item>امتحانات ترم اول</item>
+    </string-array>
+    <string name="title_activity_blog">Blog</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_blog_web_view">Blog</string>
+
+</resources>

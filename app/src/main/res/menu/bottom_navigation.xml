@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/icon_home"
+        android:icon="@drawable/home2"
+        android:title="Home"/>
+    <item
+        android:id="@+id/icon_blog"
+        android:icon="@mipmap/blog_ic"
+        android:title="Blog"/>
+    <item
+        android:id="@+id/icon_iq_test"
+        android:icon="@drawable/icon_question_answer"
+        android:title="IQ Test"
+        />
+    <item
+        android:id="@+id/icon_materials"
+        android:icon="@drawable/ic_library_books"
+        android:title="Materials"/>
+</menu>

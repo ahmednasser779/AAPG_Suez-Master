@@ -1,0 +1,16 @@
+body
+{
+    font-family: Verdana,Arial;
+    margin:2px;
+    padding:5px;
+}
+h1
+{
+    color: #810b1d;
+    text-align: center;
+}
+span
+{
+    color: #B30D27;
+    font-weight: bold;
+}
